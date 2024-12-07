@@ -5,7 +5,7 @@ import AIContentGenerator from './src/components/AIContentGenerator';
 function App() {
   return (
     <div className="App">
-      <AIContentGenerator />
+      <Codex AI Generator />
     </div>
   );
 }
