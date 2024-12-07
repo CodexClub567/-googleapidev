@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import AIContentGenerator from './src/components/AIContentGenerator';
+import AIContentGenerator from './components/AIContentGenerator';
 
 function App() {
   return (
