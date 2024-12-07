@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import axios from 'axios';
 
-const AIContentGenerator = () => {
+const CodexBot = () => {
   const [prompt, setPrompt] = useState('');
   const [response, setResponse] = useState('');
   const [loading, setLoading] = useState(false);
@@ -22,7 +22,7 @@ const AIContentGenerator = () => {
 
   return (
     <div className="ai-generator">
-      <h1>Codex AI Generator</h1>
+      <h1>Codex-Bot</h1>
       <textarea
         placeholder="Enter your prompt"
         value={prompt}
@@ -41,4 +41,4 @@ const AIContentGenerator = () => {
   );
 };
 
-export default Codex AI Generator;
+export default CodexBot;
