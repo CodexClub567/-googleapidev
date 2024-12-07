@@ -41,4 +41,4 @@ const AIContentGenerator = () => {
   );
 };
 
-export default AIContentGenerator;
+export default Codex AI Generator;
