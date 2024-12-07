@@ -22,7 +22,7 @@ const AIContentGenerator = () => {
 
   return (
     <div className="ai-generator">
-      <h1>AI Content Generator</h1>
+      <h1>Codex AI Generator</h1>
       <textarea
         placeholder="Enter your prompt"
         value={prompt}
